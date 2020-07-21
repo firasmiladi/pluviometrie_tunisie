@@ -11,7 +11,7 @@ Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.
 Background Information:
 In this project i use Python Pandas & Python Matplotlib to analyze rainfall in Tunisia in real time. The data is extracted from the server of Ministry of Agriculture 
 
-I explore 3 questions related to the data:
-What is the record of rainfall each year in tunisia ? also what station ? and which day?
-what is in each year the record of rainfall in tunisia ?
-whats stations know the most rainfall level ? 
+I explore 3 questions related to the data
+	What is the record of rainfall each year in tunisia ? also what station ? and which day?
+	what is in each year the record of rainfall in tunisia ?
+	whats stations know the most rainfall level ? 
